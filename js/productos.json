@@ -1,0 +1,143 @@
+[
+    {
+        "id": "mouse-01",
+        "titulo": "Lamzu Atlantis Mini 4k White",
+        "imagen": "./img/mouse01.jpg",
+        "categoria": {
+            "nombre": "Mouse",
+            "id": "mouse"
+        },
+        "precio": 108400
+    },
+    {
+        "id": "mouse-02",
+        "titulo": "PWNAGE StormBreaker Magnesium Negro",
+        "imagen": "./img/mouse02.png",
+        "categoria": {
+            "nombre": "Mouse",
+            "id": "mouse"
+        },
+        "precio": 168900
+    },
+    {
+        "id": "mouse-03",
+        "titulo": "Pulsar X2 Mini Premium Black",
+        "imagen": "./img/mouse03.jpg",
+        "categoria": {
+            "nombre": "Mouse",
+            "id": "mouse"
+        },
+        "precio": 110000
+    },
+    {
+        "id": "mouse-04",
+        "titulo": "Pulsar X2 Wireless Red Edition",
+        "imagen": "./img/mouse04.jpg",
+        "categoria": {
+            "nombre": "Mouse",
+            "id": "mouse"
+        },
+        "precio": 115000
+    },
+    {
+        "id": "mouse-05",
+        "titulo": "Pulsar X2 BruceLee Limited",
+        "imagen": "./img/mouse05.jpg",
+        "categoria": {
+            "nombre": "Mouse",
+            "id": "mouse"
+        },
+        "precio": 120000
+    },
+    {
+        "id": "mouse-06",
+        "titulo": "LAMZU Atlantis Mini 4k Black",
+        "imagen": "./img/mouse06.jpg",
+        "categoria": {
+            "nombre": "Mouse",
+            "id": "mouse"
+        },
+        "precio": 129990
+    },
+    
+    {
+        "id": "mousepad-01",
+        "titulo": "Mousepad Gamer Pulsar Superglide XL",
+        "imagen": "./img/mousepad01.jpg",
+        "categoria": {
+            "nombre": "Mousepads",
+            "id": "mousepads"
+        },
+        "precio": 115000
+    },
+    {
+        "id": "mousepad-02",
+        "titulo": "Mousepad Pulsar ES2 Black",
+        "imagen": "./img/mousepad02.jpg",
+        "categoria": {
+            "nombre": "Mousepads",
+            "id": "mousepads"
+        },
+        "precio": 48000
+    },
+    {
+        "id": "mousepad-03",
+        "titulo": "Mousepad Gamer FocusGG Ambition",
+        "imagen": "./img/mousepad03.jpg",
+        "categoria": {
+            "nombre": "Mousepads",
+            "id": "mousepads"
+        },
+        "precio": 37000
+    },
+    {
+        "id": "mousepad-04",
+        "titulo": "ParaControl V2 Mousepad XXL Black",
+        "imagen": "./img/mousepad04.jpg",
+        "categoria": {
+            "nombre": "Mousepads",
+            "id": "mousepads"
+        },
+        "precio": 54000
+    },
+    {
+        "id": "mousepad-05",
+        "titulo": "ParaControl V2 Mousepad XL Black",
+        "imagen": "./img/mousepad05.jpg",
+        "categoria": {
+            "nombre": "Mousepads",
+            "id": "mousepads"
+        },
+        "precio": 40000
+    },
+    {
+        "id": "mousepad-06",
+        "titulo": "Pulsar ES1 Mousepad BruceLee Limited Edition",
+        "imagen": "./img/mousepad06.jpg",
+        "categoria": {
+            "nombre": "Mousepads",
+            "id": "mousepads"
+        },
+        "precio": 50000
+    },
+    {
+        "id": "monitor-01",
+        "titulo": "Monitor Curvo Samsung Odyssey G5 27'",
+        "imagen": "./img/monitor01.jpg",
+        "categoria": {
+            "nombre": "Monitores",
+            "id": "monitores"
+        },
+        "precio": 500000
+    },
+    {
+        "id": "auricular-01",
+        "titulo": "Skull Candy SLYR Multiplataforma",
+        "imagen": "./img/auriculares01.jpg",
+        "categoria": {
+            "nombre": "Auriculares",
+            "id": "auriculares"
+        },
+        "precio": 87000
+    }
+]
